@@ -1,0 +1,37 @@
+_repo: Kriegsgefangen-b-Erlebtes-1870_75277
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fontane, Theodor
+    aliases:
+    - Fontane, Henri Théodore
+    - Fontane, Teodor
+    - Fontane, Henri Theodore
+    birthdate: 1819
+    deathdate: 1898
+    gutenberg_agent_id: '1765'
+    url: http://www.gutenberg.org/2009/agents/1765
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Theodor_Fontane
+    - https://de.wikipedia.org/wiki/Theodor_Fontane
+description: ''
+gutenberg_issued: '2025-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75277'
+language: de
+pgterms:marc904: https://www.digitale-sammlungen.de/de/view/bsb11003914
+pgterms:marc905: 20230325084055fontane
+pgterms:marc906: '1871'
+pgterms:marc907: de
+production_note: Peter Becker, Richard Scheibel and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This transcription was produced from images generously
+  made available by Bayerische Staatsbibliothek / Bavarian State Library.)
+publication_note: '  $aGermany :$bDecker, $c1871.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kriegsgefangen : $b Erlebtes 1870.'
+url: http://www.gutenberg.org/ebooks/75277
